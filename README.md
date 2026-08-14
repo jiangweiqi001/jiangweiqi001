@@ -30,9 +30,9 @@ Physics-aware preflight checks for LaTeX papers: conventions, notation, rescalin
 
 ## Tools I reach for
 
-`Python` 路 `Julia` 路 `JAX` 路 `Quantum ESPRESSO` 路 `LaTeX` 路 `Obsidian` 路 `Codex`
+`Python` · `Julia` · `JAX` · `Quantum ESPRESSO` · `LaTeX` · `Obsidian` · `Codex`
 
 ## Working principles
 
-**Reproducible experiments 路 Explicit assumptions 路 Source-grounded outputs 路 Honest limitations**
+**Reproducible experiments · Explicit assumptions · Source-grounded outputs · Honest limitations**
 
