@@ -21,11 +21,12 @@ Also known as **358footman** on Bilibili.
 
 ### Research & scientific computing
 
+- **[theoretical-physics-teach](https://github.com/jiangweiqi001/theoretical-physics-teach)** Source-driven study of theoretical-physics papers with preserved notation, reconstructed derivations, and resumable Obsidian notes.
+- **[RealSpaceDFT-GTH](https://github.com/jiangweiqi001/RealSpaceDFT-GTH)** A simple real-space DFT solver with GTH pseudopotentials in Python.
 - **[IsoGridDFT](https://github.com/jiangweiqi001/IsoGridDFT)** 鈥?An experimental JAX implementation of real-space Kohn鈥揝ham DFT on structured adaptive grids.
 
 ### Knowledge & creator tools
 
-- **[theoretical-physics-teach](https://github.com/jiangweiqi001/theoretical-physics-teach)** 鈥?Source-driven study of theoretical-physics papers with preserved notation, reconstructed derivations, and resumable Obsidian notes.
 - **[pure-math-for-theoretical-physicists](https://github.com/jiangweiqi001/pure-math-for-theoretical-physicists)** 鈥?A bridge from pure-mathematics papers to the questions and language of theoretical physics.
 - **[bilibili-transcript-refiner](https://github.com/jiangweiqi001/bilibili-transcript-refiner)** 鈥?An auditable Bilibili transcript workflow with local ASR, timestamps, checkpoints, and correction-risk checks.
 
