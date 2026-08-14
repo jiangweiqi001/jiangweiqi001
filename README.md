@@ -17,18 +17,12 @@ Also known as **358footman** on Bilibili.
 - Density-functional theory and reproducible numerical workflows
 - Source-grounded tools for learning, research, and technical communication
 
-## Featured projects
-
-### Research & scientific computing
+## Selected projects
 
 - **[theoretical-physics-teach](https://github.com/jiangweiqi001/theoretical-physics-teach)** Source-driven study of theoretical-physics papers with preserved notation, reconstructed derivations, and resumable Obsidian notes.
 - **[RealSpaceDFT-GTH](https://github.com/jiangweiqi001/RealSpaceDFT-GTH)** A simple real-space DFT solver with GTH pseudopotentials in Python.
-- **[IsoGridDFT](https://github.com/jiangweiqi001/IsoGridDFT)** 鈥?An experimental JAX implementation of real-space Kohn鈥揝ham DFT on structured adaptive grids.
-
-### Knowledge & creator tools
-
-- **[pure-math-for-theoretical-physicists](https://github.com/jiangweiqi001/pure-math-for-theoretical-physicists)** 鈥?A bridge from pure-mathematics papers to the questions and language of theoretical physics.
-- **[bilibili-transcript-refiner](https://github.com/jiangweiqi001/bilibili-transcript-refiner)** 鈥?An auditable Bilibili transcript workflow with local ASR, timestamps, checkpoints, and correction-risk checks.
+- **[pure-math-for-theoretical-physicists](https://github.com/jiangweiqi001/pure-math-for-theoretical-physicists)** A bridge from pure-mathematics papers to the questions and language of theoretical physics.
+- **[bilibili-transcript-refiner](https://github.com/jiangweiqi001/bilibili-transcript-refiner)** An auditable Bilibili transcript workflow with local ASR, timestamps, checkpoints, and correction-risk checks.
 
 ## Current focus
 
