@@ -16,8 +16,6 @@ I am a PhD student at the Institute of Theoretical Physics, Chinese Academy of S
 
 ### Research & scientific computing
 
-- **[scientific-discoveries](https://github.com/jiangweiqi001/scientific-discoveries)** — Research dossiers organized around verifiable scientific questions.
-- **[DDRSH-QE](https://github.com/jiangweiqi001/DDRSH-QE)** — A reproducible Quantum ESPRESSO patch and benchmark pipeline for dielectric-dependent range-separated hybrid functionals.
 - **[IsoGridDFT](https://github.com/jiangweiqi001/IsoGridDFT)** — An experimental JAX implementation of real-space Kohn–Sham DFT on structured adaptive grids.
 
 ### Knowledge & creator tools
